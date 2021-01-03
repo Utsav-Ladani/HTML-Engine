@@ -1,0 +1,25 @@
+{
+  "name": "html-engine",
+  "version": "1.0.0",
+  "description": "The simple engine idea which can combine multiple html file and produce a single html file.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utsav-Ladani/HTML-Engine.git"
+  },
+  "author": "Utsav Ladani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Utsav-Ladani/HTML-Engine/issues"
+  },
+  "homepage": "https://github.com/Utsav-Ladani/HTML-Engine#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}

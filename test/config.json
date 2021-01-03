@@ -1,0 +1,4 @@
+{
+    "input": "/test/views/index.html",
+    "output": "/build/main.html"
+}
